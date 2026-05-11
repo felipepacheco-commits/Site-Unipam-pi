@@ -1,0 +1,66 @@
+.bg-menu{
+    background-color: #073b59;
+}
+.navbar-nav li a{
+    color: white !important;
+    border-bottom: 4px solid  #073b59 !important;
+
+}
+.navbar-nav li a:hover{
+    color: white !important;
+    border-bottom: 4px solid  #fe5000cc !important;
+}
+
+.navbar-nav li{
+    padding: 0 20px !important;
+}
+
+.dropdown-menu{
+    background-color: #073b59 !important;
+}
+.card-cor{
+    color: #ffff;
+}
+
+.dropdown-menu li a:hover{
+    color: #000000 !important;
+    background-color: fe5000cc;
+}
+
+.card-icon svg{
+    width: 3rem;
+    height: 3rem;
+    color: #ffff;
+    margin: 1rem;
+}
+.card-back{
+    display: flex;
+    width: 20rem;
+    height: 11rem;
+    background-color: #073b59;
+}
+.card-titulo{
+    color: #ffff;
+    margin-top: 1rem;
+}
+.card-texto{
+    color: #ffff;
+}
+.card-format{
+    display: flex;
+    margin: 2rem 14rem;
+    gap: 4rem;
+}
+.card-not-img{
+    width: 3rem;
+    height: 3rem;
+}
+.card-not{
+    display: flex;
+    margin: 2rem 14rem;
+    gap: 2rem;
+}
+.card-not-corpo{
+    width: 17rem;
+    height: 18rem;
+}
