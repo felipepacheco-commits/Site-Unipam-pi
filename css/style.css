@@ -84,6 +84,9 @@
 .card-not-corpo{
     padding: 1rem;
 }
+.card-not-corpo a {
+   margin: 0 2.3rem;
+}
 
 .card-not-img{
     width: 100%;
